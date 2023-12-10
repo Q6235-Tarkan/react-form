@@ -1,0 +1,30 @@
+.password{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+Form.Label{
+    font-size: 5rem;
+}
+.form{
+    text-align: left;
+    color: #764B8F;
+    font-size: 1.3rem;
+
+}
+.container{
+    background-color:#F4D6D2 ;
+}
+.buton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and (max-width: 265px) {
+    .showhidden{
+        display: none;
+    }
+
+}
